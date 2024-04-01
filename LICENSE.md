@@ -1,3 +1,5 @@
+# <img src="https://github.com/jcorrean/UnisabanaMetaAnalysis/blob/main/pngs/Open_Source_Initiative.png" width="40"/> Sobre esta licencia <img src="https://github.com/jcorrean/UnisabanaMetaAnalysis/blob/main/pngs/Open_Source_Initiative.png" width="40"/>
+
 Esta Licencia Académica Gratuita (la “Licencia”) se aplica a cualquier obra original de autoría (la “Obra Original”) cuyo propietario (el “Licenciante”) haya colocado el siguiente aviso de licencia junto al aviso de derechos de autor de la Obra Original:
 
 Licenciado bajo la Licencia Académica Gratuita versión 3.0
