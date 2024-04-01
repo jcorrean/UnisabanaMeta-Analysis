@@ -9,15 +9,10 @@ Este es el repositorio oficial de la clase sobre Meta-Análisis en el Doctorado 
 ## 2. Tecnologías 
 Este repositorio aprovecha el uso de las siguientes tecnologías:
 
-1. [![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=git&link=https%3A%2F%2Fgit-scm.com%2F)](https://git-scm.com/)
-2. [![Static Badge](https://img.shields.io/badge/R-blue?style=flat&logo=R&link=https%3A%2F%2Fcran.r-project.org%2F)](https://cran.r-project.org/)
-3. [![Static Badge](https://img.shields.io/badge/Scholar-white?style=flat&logo=googlescholar&link=https%3A%2F%2Fscholar.google.com%2F)
-](https://scholar.google.com/)
-4. [![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow&labelColor=blue&link=https%3A%2F%2Fscholar.google.com%2F)
-](https://www.python.org/)
-5. [![Static Badge](https://img.shields.io/badge/Latex-%23008080?style=flat&logo=latex&logoColor=white&labelColor=%23008080&link=https%3A%2F%2Fwww.tug.org%2Ftexlive%2F)
-](https://www.tug.org/texlive/)
-6. [![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white&labelColor=black&link=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2F)
+[![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=git&link=https%3A%2F%2Fgit-scm.com%2F)](https://git-scm.com/), [![Static Badge](https://img.shields.io/badge/R-blue?style=flat&logo=R&link=https%3A%2F%2Fcran.r-project.org%2F)](https://cran.r-project.org/), [![Static Badge](https://img.shields.io/badge/Scholar-white?style=flat&logo=googlescholar&link=https%3A%2F%2Fscholar.google.com%2F)
+](https://scholar.google.com/), [![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow&labelColor=blue&link=https%3A%2F%2Fscholar.google.com%2F)
+](https://www.python.org/), [![Static Badge](https://img.shields.io/badge/Latex-%23008080?style=flat&logo=latex&logoColor=white&labelColor=%23008080&link=https%3A%2F%2Fwww.tug.org%2Ftexlive%2F)
+](https://www.tug.org/texlive/), [![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white&labelColor=black&link=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2F)
 ](https://www.w3schools.com/html/)
 
 
